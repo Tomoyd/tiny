@@ -6,13 +6,13 @@
 ## Install
 
 ```
-$ npm install @bamblehorse/tiny
+$ npm install @tomoyd/tiny
 ```
 
 ## Usage
 
 ```js
-const tiny = require("@bamblehorse/tiny");
+const tiny = require("@tomoyd/tiny");
 
 tiny("So much space!");
 //=> "Somuchspace!"
